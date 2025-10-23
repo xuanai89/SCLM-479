@@ -1,6 +1,4 @@
-# SCLM 479 - Integrated Supply & Logistics Management
-
-### Fine Scandinavia: Launching a New Kitchenware & Home-Appliance Line
+# Fine Scandinavia: Launching a New Kitchenware & Home-Appliance Line
 
 ## About This Project
 
