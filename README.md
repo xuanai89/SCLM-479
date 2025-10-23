@@ -20,9 +20,9 @@ The project provides a detailed analysis and strategic plan for the following co
 
 **Logistics Network Design:** A dual-pronged logistics model featuring:
 
-    **Inbound:** A hybrid model using intermodal rail (from Northern VN) and direct transport (from Southern VN) to the Dat Cuoc plant.
+Inbound: A hybrid model using intermodal rail (from Northern VN) and direct transport (from Southern VN) to the Dat Cuoc plant.
     
-    **Outbound:** A primary export channel (to Cat Lai/Cai Mep ports) and an agile Make-to-Order (MTO) domestic fulfillment model.
+Outbound: A primary export channel (to Cat Lai/Cai Mep ports) and an agile Make-to-Order (MTO) domestic fulfillment model.
     
 **Quality Management Plan:** A comprehensive QMP to ensure all products meet stringent EU compliance standards (e.g., EC 1935/2004, RoHS, LVD) and premium brand expectations.
 
